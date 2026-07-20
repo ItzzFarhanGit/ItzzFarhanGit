@@ -12,15 +12,18 @@
 
 # 👨‍💻 About Me
 
-- 🎓 IT Student passionate about software development and modern technologies.
-- 💻 Full Stack Web Developer with experience in web application development.
-- 🎨 UI/UX Designer using Adobe Creative Cloud tools.
-- 🎬 Video Editor with Adobe applications and CapCut.
-- 📷 Graphic Designer who enjoys creating clean and modern designs.
-- 🚀 Always learning new technologies and improving my skills.
-- 🤝 Open to collaboration on interesting projects.
-
----
+- 🎓 Higher National Diploma in Information Technology (HNDIT) Student.
+- 💻 Passionate Full Stack Web Developer with experience in building responsive web applications.
+- ⚛️ Skilled in Frontend and Backend Development using HTML, CSS, JavaScript, Bootstrap, React.js, PHP, Node.js, Express.js, MySQL, and MongoDB.
+- 🎨 UI/UX Designer using Adobe Creative Cloud applications.
+- 🖌️ Graphic Designer with experience in Adobe Photoshop, Illustrator, XD, Lightroom, and Adobe Express.
+- 🎬 Creative Video Editor using Adobe Premiere Pro, After Effects, Audition, Media Encoder, and CapCut.
+- 📊 Proficient in Microsoft Office (Word, Excel, PowerPoint & Access).
+- 👨‍🏫 English Language Instructor with excellent teaching and mentoring skills.
+- 💬 Strong Communication Skills with fluency in English and Tamil.
+- 🎤 Confident in Public Speaking, Presentations, Leadership, and Team Collaboration.
+- 🚀 Always learning new technologies and improving my technical skills.
+- 🤝 Open to collaborating on innovative software development projects.
 
 # 🌐 Connect With Me
 
@@ -51,27 +54,28 @@
 ## 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
 </p>
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (ES6+)
 - Bootstrap
-- Node.js
+- React.js
 
 ---
 
-## 🗄️ Backend Development
+## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,mysql"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb"/>
 </p>
 
 - PHP
+- Node.js
+- Express.js
 - MySQL
-
----
+- MongoDB
 
 ## 🎨 UI/UX & Graphic Design
 
@@ -124,6 +128,26 @@
 
 ---
 
+---
+
+# 💼 Professional Skills
+
+- 👨‍🏫 English Language Teaching
+- 🗣️ Excellent Communication Skills
+- 🌍 Fluent in English & Tamil
+- 🎤 Public Speaking & Presentation
+- 🤝 Team Collaboration
+- 👥 Leadership
+- 📋 Project Management
+- 🧠 Problem Solving
+- 💡 Critical Thinking
+- 📚 Research & Documentation
+- ⏱️ Time Management
+- 🚀 Fast Learner
+- 💼 Professional Work Ethics
+
+---
+
 # 🚀 Featured Projects
 
 | Project | Tech Stack |
@@ -145,8 +169,9 @@
 | 💼 Internship & Placement App with Auto CV Builder | HTML • CSS • JavaScript • PHP • MySQL |
 | 🧪 Medical Laboratory Management System | HTML • CSS • JavaScript • PHP • MySQL |
 
-> **Tech Stack Used in All Projects:**  
-> HTML5 • CSS3 • JavaScript • Bootstrap • PHP • MySQL
+> **Technologies Used Across My Projects**
+
+`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `React.js` • `PHP` • `Node.js` • `Express.js` • `MySQL` • `MongoDB`
 
 # 📊 GitHub Stats
 
@@ -183,23 +208,28 @@
 
 # 🌱 Currently Learning
 
+- React.js (Advanced Concepts)
+- Next.js
 - Flutter
 - TypeScript
-- Next.js
 - Docker
 - AWS Cloud
 - System Design
-
+- Backend Architecture
+- REST APIs
+- DevOps Basics
 ---
 
 # 🎯 Career Goals
 
-- 🚀 Become a Professional Full Stack Developer
+- 🚀 Become a Professional Full Stack Software Engineer
 - 🌍 Contribute to Open Source Projects
-- 📱 Build Modern Web Applications
-- ☁ Learn Cloud Computing
-- 💼 Grow as a UI/UX Designer
+- 💼 Build Enterprise-Level Applications
+- 📱 Develop Modern Web & Mobile Applications
+- ☁ Master Cloud Computing & DevOps
+- 🎨 Become an Expert UI/UX Designer
 - 🎬 Improve Creative Editing Skills
+- 👨‍🏫 Continue Teaching English and Helping Others Learn
 
 ---
 
