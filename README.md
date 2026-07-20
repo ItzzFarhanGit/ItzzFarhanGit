@@ -4,9 +4,7 @@
 💻 Full Stack Web Developer | UI/UX Designer | Creative Editor | IT Student
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Bootstrap+%7C+Node.js+%7C+MySQL;UI%2FUX+Designer;Adobe+Creative+Suite+Editor;Always+Learning+New+Technologies!" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=1100&lines=Full+Stack+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React.js;PHP+%7C+Node.js+%7C+Express.js;C%23+%7C+Java+%7C+Python;MySQL+%7C+MongoDB;UI%2FUX+Designer+%26+Creative+Editor;English+Language+Instructor;Always+Learning+New+Technologies!" />
 
 ---
 
@@ -51,6 +49,22 @@
 
 # 💻 Technical Skills
 
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,cs,java,python"/>
+</p>
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- PHP
+- C#
+- Java
+- Python
+
+---
+
 ## 🌐 Frontend Development
 
 <p>
@@ -59,7 +73,7 @@
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
+- JavaScript
 - Bootstrap
 - React.js
 
@@ -68,14 +82,25 @@
 ## ⚙️ Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
 </p>
 
 - PHP
 - Node.js
 - Express.js
+
+---
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
 - MySQL
 - MongoDB
+
+---
 
 ## 🎨 UI/UX & Graphic Design
 
@@ -83,14 +108,16 @@
 <img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
-✔ Adobe Photoshop  
-✔ Adobe Illustrator  
-✔ Adobe XD  
-✔ Adobe Lightroom  
-✔ UI/UX Design  
-✔ Logo Design  
-✔ Social Media Design  
-✔ Poster & Banner Design
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Adobe Lightroom
+- Adobe Express
+- UI/UX Design
+- Logo Design
+- Banner Design
+- Poster Design
+- Social Media Design
 
 ---
 
@@ -98,23 +125,24 @@
 
 - Adobe Premiere Pro
 - Adobe After Effects
-- Adobe Media Encoder
 - Adobe Audition
+- Adobe Media Encoder
 - CapCut
 
 ---
 
-## 🛠️ Tools & Software
+## 🛠️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm"/>
 </p>
 
 - Visual Studio Code
+- Visual Studio
 - Git
 - GitHub
-- Postman
 - XAMPP
+- Postman
 - npm
 
 ---
@@ -171,7 +199,7 @@
 
 > **Technologies Used Across My Projects**
 
-`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `React.js` • `PHP` • `Node.js` • `Express.js` • `MySQL` • `MongoDB`
+`HTML5` • `CSS3` • `JavaScript` • `Bootstrap` • `React.js` • `PHP` • `Node.js` • `Express.js` • `MySQL` • `MongoDB` • `C#` • `Java` • `Python`
 
 # 📊 GitHub Stats
 
